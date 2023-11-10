@@ -15,17 +15,11 @@ Wybrano: Rok 2021, Sektowy własności: All, Płeć: All, Sekcje wg PKD 2007: Al
 
 TRANSFORMACJE
 4. Sprawdzono czy są nulle i duplikaty (brak)
-
 5. Dołączono słownik dla sekcji funkcją merge
-   
 7. Usunięto wszystkie wiersze, gdzie w komórce mogła występować wartość 'ogółem'
-   
 9. Pozostawiono tylko dane dla 'Nazwa' = 'POLSKA' (zrezygnowano z podziału na województwa)
-    
 11. Usunięto zbędne kolumny (nieprzydatne pod kątem analitycznym)
-    
 13. Zmieniono typy danych object na str
-    
 15. Sortowanie po 'Wartosc', 5 pierwszych, 5 ostatnich
 
 WYKRES
@@ -33,11 +27,8 @@ WYKRES
 
 ZAPIS DO BAZY
 12. Tworzenie bazy danych sqlite3
-
 13. Tworzenie i zapis dataframe do tabeli
-  
 15. Pokazanie tabeli
-    
 17. Zamknięcie bazy
 
 WYKORZYSTANE BIBLIOTEKI
