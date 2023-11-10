@@ -33,7 +33,7 @@ ZAPIS DO BAZY
 <br />17. Zamknięcie bazy
 
 BIBLIOTEKI
-sqlite3
-matplotlib.pyplot
-google.colab import drive
-pandas
+<br />sqlite3
+<br />matplotlib.pyplot
+<br />google.colab import drive
+<br />pandas
